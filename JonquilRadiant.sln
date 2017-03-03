@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JonquilRadiant", "JonquilRadiant\JonquilRadiant.csproj", "{A0241500-4B02-47DF-A099-1D97F381BA70}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JonquilCalc", "JonquilCalc\JonquilCalc.csproj", "{A1EA7189-B6F4-4B6E-9D15-BFD8E64C1AA1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A0241500-4B02-47DF-A099-1D97F381BA70}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A0241500-4B02-47DF-A099-1D97F381BA70}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A0241500-4B02-47DF-A099-1D97F381BA70}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A0241500-4B02-47DF-A099-1D97F381BA70}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A1EA7189-B6F4-4B6E-9D15-BFD8E64C1AA1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A1EA7189-B6F4-4B6E-9D15-BFD8E64C1AA1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A1EA7189-B6F4-4B6E-9D15-BFD8E64C1AA1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A1EA7189-B6F4-4B6E-9D15-BFD8E64C1AA1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
